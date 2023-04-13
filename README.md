@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Anaïs and 
+- 🔭 I’m currently enrolled on a data science course
+
+
+
 <!--
 **anaisdangeot/anaisdangeot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
